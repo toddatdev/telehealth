@@ -1,0 +1,10 @@
+#search-query-header, #search-query-footer{
+    border-radius: 50px;
+}
+.easy-autocomplete-container {
+    left: 20px;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    top: 73px;
+}

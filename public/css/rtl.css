@@ -1,0 +1,712 @@
+body.rtl{unicode-bidi: embed;}
+body.rtl .dc-bannerimg,
+body.rtl .dc-helpnum,
+body.rtl .dc-logo,
+body.rtl .dc-bannercontent .dc-btnarea .dc-btn,
+body.rtl .dc-form-advancedsearch fieldset .form-group,
+body.rtl .dc-advancedsearch,
+body.rtl .dc-jointeamimg,
+body.rtl .dc-bringcarecontent .dc-btnarea .dc-btn,
+body.rtl .dc-doccareimg,
+body.rtl .dc-docpostcontent .dc-stars,
+body.rtl .dc-docpostcontent .dc-title h3 a,
+body.rtl .dc-appicons li,
+body.rtl .dc-appbgimg figure,
+body.rtl .dc-articleby-holder .dc-articleby,
+body.rtl .la-shareicon .dc-simplesocialicons li,
+body.rtl .dc-articlesdocinfo img,
+body.rtl .dc-btnapps li,
+body.rtl .dc-fsocialicon .dc-simplesocialicons li,
+body.rtl .dc-latestadimg,
+body.rtl .dc-breadcrumb li,
+body.rtl .dc-postquestion,
+body.rtl .dc-forumform fieldset .form-group,
+body.rtl .dc-searchresult-head .dc-title,
+body.rtl .dc-logininfo .dc-btn,
+body.rtl .dc-formregister .dc-registerformgroup .form-group,
+body.rtl .dc-formregister .dc-registerformgroup .form-group button,
+body.rtl .dc-userlogedin .dc-userimg,
+body.rtl .dc-listedarticle .dc-articles .dc-articleslist-content .dc-articlecontent .dc-moreoptions li,
+body.rtl .dc-downloads-files li,
+body.rtl .dc-downloads-files li img,
+body.rtl .dc-doc-registration .dc-filecontent span + em,
+body.rtl .dc-doc-downloads .dc-filecontent span + em,
+body.rtl .dc-filecontent span,
+body.rtl .dc-subpaneltitlevtwo > span,
+body.rtl .dc-moreservice-content .dc-checkbox-holder .dc-checkbox,
+body.rtl .dc-tags ul li,
+body.rtl .dc-docsingle-content .dc-title h2 a,
+body.rtl .dc-docsingle-content .dc-title .dc-docinfo .dc-stars,
+body.rtl .dc-docsingle-content .dc-btnarea .dc-btn,
+body.rtl .dc-navdocsingletab li,
+body.rtl .dc-searchvtwo,
+body.rtl .dc-searchvlistvtwo .dc-docpostholder .dc-title,
+body.rtl .dc-logofooter,
+body.rtl .dc-loginfooterinfo a,
+body.rtl .dc-forumcomments-details > a,
+body.rtl .dc-errorcontent .dc-description,
+body.rtl .iziToast > .iziToast-body .iziToast-texts,
+body.rtl .dc-aboutgallery-img figure,
+body.rtl .dc-timeslots .dc-radio,
+body.rtl .dc-appointment-holder .dc-title h4,
+body.rtl .dc-popup-step2 .form-row > .col,
+body.rtl .form-row > [class*=col-],
+body.rtl #la-addfeedbackpopup .dc-tabbtns .dc-radio,
+body.rtl .dc-ratingtitle,
+body.rtl #la-addfeedbackpopup .dc-formsubmit .dc-btnarea input[type="submit"]
+{
+	float: right;
+}
+body.rtl .dc-bannercontent,
+body.rtl .dc-rightarea,
+body.rtl .dc-loginarea,
+body.rtl .dc-docsearch,
+body.rtl .dc-consultation-title span,
+body.rtl .dc-subpaneltitlevtwo .dc-btnaction,
+body.rtl .dc-loginheader a,
+body.rtl .dc-errorcontent .dc-btnarea span,
+body.rtl .dc-tabbtns,
+body.rtl .dc-ratingarea
+{
+	float: left;
+}
+body.rtl .dc-navigation ul li .sub-menu li,
+body.rtl .dc-helpnum,
+body.rtl .dc-advancedsearch .dc-title,
+body.rtl .dc-doctordetails-holder,
+body.rtl .dc-docpostcontent,
+body.rtl .dc-articlecontent .dc-title,
+body.rtl .dc-widgetskills,
+body.rtl .dc-widgetcategories,
+body.rtl .dc-ftitle,
+body.rtl .dc-footercontent,
+body.rtl .dc-postquestion,
+body.rtl .dc-consultation-details,
+body.rtl .dc-featured-content,
+body.rtl .dc-widgettitle,
+body.rtl .dc-logininfo,
+body.rtl .dc-formregister .dc-formregisterstart,
+body.rtl .dc-termsconditions .dc-checkboxholder,
+body.rtl .dc-formregister fieldset,
+body.rtl .dc-userlogedin .dc-usernav,
+body.rtl .iziToast,
+body.rtl .switch-button-control .switch-button,
+body.rtl .dc-categories-content,
+body.rtl .dc-runner-heading,
+body.rtl .dc-articlesingle-content,
+body.rtl .dc-py-20,
+body.rtl .dc-subtitle h4,
+body.rtl .dc-docsingle-content,
+body.rtl .dc-navigation > ul > li > a,
+body.rtl .dc-aboutinfo,
+body.rtl .dc-navigationarea .dc-rightarea,
+body.rtl .dc-cardtitle-firstuser,
+body.rtl .dc-forumcomments-details .dc-description,
+body.rtl .dc-errorcontent,
+body.rtl .dc-visitingdoctor .dc-title,
+body.rtl .dc-visit,
+body.rtl .dc-visitingdoctor,
+body.rtl .wt-formfeedback .dc-expandedu,
+body.rtl .dc-expandedu,
+body.rtl .dc-navdocsingletab li a,
+body.rtl .dc-popupsubtitle,
+body.rtl .dc-formfeedback fieldset,
+body.rtl .dc-user-header .dc-title
+{text-align: right;}
+body.rtl .dc-moreoptions,
+body.rtl .dc-shareprofile ul
+{text-align: left;}
+body.rtl .dc-navigation > ul > li > .sub-menu,
+body.rtl .dc-sectionbg:after,
+body.rtl .dc-logininfo .dc-checkbox input[type=checkbox] + label:before,
+body.rtl .dc-logininfo .dc-checkbox input[type=checkbox] + label:after,
+body.rtl .dc-startoption .dc-radio input[type=radio] + label:before,
+body.rtl .dc-startoption .dc-radio input[type=radio] + label:after,
+body.rtl .dc-termsconditions .dc-checkboxholder .dc-checkbox input[type=checkbox] + label:before,
+body.rtl .dc-termsconditions .dc-checkboxholder .dc-checkbox input[type=checkbox] + label:after,
+body.rtl .dc-sidebarwrapper,
+body.rtl .dc-categories-content li a:before,
+body.rtl .dc-loginfooterinfo a + a:before
+{
+	right: 0;
+	left: auto;
+}
+body.rtl .dc-navigation > ul > li:before,
+body.rtl .dc-slidercounter,
+body.rtl .dc-forumform .dc-btnarea,
+body.rtl .dc-username:after,
+body.rtl .dc-searchgbtn,
+body.rtl .iziToast > .iziToast-close{
+	left: 0;
+	right: auto;
+}
+body.rtl #la-addfeedbackpopup .dc-formsubmit .dc-btnarea input[type="submit"]{
+	margin-right: 0;
+	margin-left: 15px;
+}
+body.rtl .dc-loginarea{
+	margin-left: 0; 
+	margin-right: 25px; 
+}
+body.rtl .dc-rightarea .dc-loginarea > .dc-btn{
+	margin-left: 0;
+	margin-right: 27px;
+}
+
+body.rtl .dc-bannercotent-craousel{
+	margin-left: 0;
+	margin-right: 60px;
+	text-align: right;
+}
+body.rtl .dc-bannercontent .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 30px;
+}
+body.rtl .dc-docsearch span:last-child{
+	margin-left: 0;
+	text-align: right;
+	margin-right: 10px;
+}
+body.rtl .dc-form-advancedsearch fieldset{
+	padding-right: 0;
+	padding-left: 60px; 
+}
+body.rtl .dc-formbtn{
+	left: 5px;
+	right: auto;
+}
+body.rtl .dc-jointeamnoti{
+	right: auto;
+	left: -12px;
+}
+body.rtl .dc-jointeamholder{
+	padding-left: 0;
+	padding-right: 10px;  
+}
+body.rtl .dc-jointeamcontent{
+	padding-left: 0;
+	text-align: right;
+	padding-right: 30px;  
+}
+body.rtl .dc-sectionhead{text-align: right;}
+body.rtl .dc-sectionhead.dc-text-center{text-align: center;}
+body.rtl .dc-bringcarecontent .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 30px;
+}
+body.rtl .dc-doccareimg figcaption{
+	right: auto;
+	left: -117px;
+	text-align: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .dc-doccareimg figcaption:after{
+	right: auto;
+	left: -10px;
+}
+body.rtl .dc-doccarecontent{border-radius: 0 4px 4px 0; }
+body.rtl .dc-workdetails-holder [class*="col-"]:nth-child(n+3):before{
+	left: auto;
+	right: -110px;
+}
+body.rtl .dc-workdetails-holder [class*="col-"]:nth-child(2):after{
+	left: auto;
+    right: -122px;
+}
+body.rtl .dc-docpostslider .owl-stage-outer{
+	padding-left: 0;
+	padding-right: 30px; 
+}
+body.rtl .dc-docslidernav{
+	left: auto;
+	right: 30px;
+}
+body.rtl .dc-docinfo li em{
+	float: right;
+	margin-right: 5px;
+}
+body.rtl .dc-docpostcontent .dc-title h3 a + i:nth-child(2){
+	margin-left: 0;
+	margin-right: 7px;
+}
+body.rtl .dc-appbgimg figure img{
+	margin-left: 0;
+	margin-right: -62px;
+}
+body.rtl .dc-appicons li + li {
+    margin-right: 30px;
+    margin-left: 0;
+}
+body.rtl .dc-datetime i{
+	margin-right: 0;
+	margin-left: 5px;
+}
+body.rtl .dc-moreoptions li a i{
+	float: left;
+	line-height: inherit;
+}
+body.rtl .dc-moreoptions > li{
+	padding-right: 0;
+	padding-left: 15px; 
+}
+body.rtl .dc-moreoptions li:last-child{padding: 0;}
+body.rtl .dc-articlesdocinfo{
+	right: auto;
+	left: -130px;
+}
+body.rtl .dc-article:hover .dc-articlesdocinfo{
+	left: 10px;
+	right: auto;
+}
+body.rtl .dc-btnapps li + li{
+	margin-left: 0;
+	margin-right: 10px; 
+}
+body.rtl .dc-fsocialicon .dc-simplesocialicons li + li{
+	margin-left: 0;
+	margin-right: 20px;
+}
+body.rtl .dc-latestadimg{
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .dc-articleby-holder .dc-articleby + .dc-articleby{
+	margin-left: 0;
+	margin-right: 8px;
+}
+body.rtl .dc-title .dc-articleby:after{
+	right: auto;
+	left: -4px; 
+}
+body.rtl .dc-innerbannerform fieldset{padding-left: 174px; }
+body.rtl .dc-innerbannerform .dc-btnarea{
+	left: 5px;
+	right: auto;
+}
+body.rtl .dc-innerbanner > .dc-docsearch{
+	right: auto;
+	left: 15px;
+}
+body.rtl .dc-innerbannerform{
+	padding: 20px 0 20px 110px;
+}
+body.rtl .dc-select select{
+	padding: 10px 20px 10px 30px;
+}
+body.rtl .dc-select:after{
+	right: auto;
+	left: 15px;
+}
+body.rtl .dc-breadcrumb li{padding:0 15px;}
+body.rtl .dc-breadcrumb li:first-child{
+	padding-right: 0;
+	padding-left: 15px;  
+}
+body.rtl .dc-breadcrumb li:after{
+	left: auto;
+	right: -3px;
+	content: '\f104';
+}
+body.rtl .dc-twocolumns > .float-left{float: right !important;}
+body.rtl .dc-questionsection figure{
+	right: auto;
+	left: 50px;
+}
+body.rtl .dc-forumform fieldset{
+	padding-left: 170px;
+	padding-right: 0;
+}
+body.rtl .dc-consultation-img{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .dc-consultation-details:before{
+	left: auto;
+	right: -30px;
+}
+body.rtl .dc-appemail-form input{
+	padding-left: 40px;
+	padding-right: 20px;
+}
+body.rtl .dc-appemail-form button{
+	right: auto;
+	left: 20px;
+}
+body.rtl .dc-featured-content li a{
+	padding-left: 0;
+	padding-right: 10px;
+}
+body.rtl .dc-featured-content li span span,
+body.rtl .dc-featured-content li a{
+	padding-right: 10px;
+	padding-left: 0;
+}
+body.rtl .dc-articles-list .dc-article .dc-articleimg,
+body.rtl .dc-articles-list .dc-article .dc-articleimg > img{
+	float: right;
+	border-radius: 0 4px 4px 0;
+}
+body.rtl .dc-borderlt-0 .dc-articlecontent{
+	border-right: 0;
+	border-left: 1px solid #eee;
+}
+body.rtl .dc-logininfo .dc-checkbox{
+	margin-left: 0;
+	margin-right: 20px;
+}
+body.rtl .dc-startoption .dc-radio input[type=radio] + label,
+body.rtl .dc-checkbox input[type=checkbox] + label{padding: 0 30px 0 0;}
+body.rtl .dc-joinsteps li + li:after{
+	right: -32px;
+	left: auto;
+}
+body.rtl .dc-termsconditions .dc-checkboxholder > a + a{
+	margin-left: 0;
+	margin-right: 16px;
+}
+body.rtl .mCS-dir-rtl > .mCSB_inside > .mCSB_container{margin: 0;}
+body.rtl .dc-header .dc-navigationarea .dc-userlogedin{
+	float: left;
+	margin-right: 10px;
+	margin-left: 0;
+}
+body.rtl .dc-userlogedin .dc-userimg{
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .dc-username{
+	text-align: right;
+	padding: 7px 0 7px 30px;
+}
+body.rtl .dc-usernav ul li.menu-item-has-children:after,
+body.rtl .dc-usernav ul li.page_item_has_children:after{
+	left: 20px;
+	right: auto;
+	content: "\e64a";
+}
+body.rtl .dc-usernav ul li.menu-item-has-children.dc-useropen:after {
+    transform: rotate(-90deg);
+}
+body.rtl .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{display: none;}
+body.rtl .iziToast{
+	padding: 8px 0 9px 45px;
+}
+body.rtl .iziToast > .iziToast-body{
+	margin: 0 15px 0 0;
+	padding: 0 33px 0 0;
+}
+body.rtl .iziToast > .iziToast-body .iziToast-icon{
+	left: auto;
+	right: 0;
+}
+body.rtl .dc-formsearch fieldset .form-group .form-control{
+    padding-right: 20px;
+	padding-left: 60px;
+}
+body.rtl .dc-searchgbtn{
+	border-radius: 4px 0 0 4px;
+}
+body.rtl .modal-header .close{
+	margin: -1rem auto -1rem -1rem;
+}
+body.rtl .chosen-container-multi{
+	text-align: right;
+	padding-right: 10px;
+	padding-left: 40px;
+}
+body.rtl .chosen-container-multi .chosen-choices li.search-choice{
+	float: right;
+	margin: 3px 0 3px 5px;
+	padding: 3px 20px 3px 40px;
+}
+body.rtl .chosen-container-multi .chosen-choices li.search-choice .search-choice-close{
+	left: 15px;
+	right: auto;
+}
+body.rtl .dc-categories-content li a{
+	padding-left: 0;
+	padding-right: 10px; 
+}
+body.rtl .dc-runner-content > ul > li,
+body.rtl .dc-runner-content a{
+	display: flex;
+	align-items: center;
+}
+body.rtl .dc-runner-content > ul > li i{
+	margin-right: 0;
+	margin-left: 5px;
+}
+body.rtl .dc-runner-content > ul > li{
+	padding-right: 0;
+	padding-left: 24px; 
+}
+body.rtl .dc-title-socialicons{
+	margin-left: 0 !important;
+	margin-right: auto;
+}
+body.rtl .dc-title-socialicons li{
+	padding-left: 0;
+	padding-right: 19px;
+}
+body.rtl .dc-pl-10{
+	padding-left: 0;
+	padding-right: 10px;
+	text-align: right;
+}
+body.rtl .dc-title-content span{
+	padding-left: 0;
+	padding-right: 8px;
+}
+body.rtl .dc-doc-awards .dc-formtheme .vdpComponent input[type="text"]{
+	padding-right: 20px;
+	padding-left: 30px;
+}
+body.rtl .dc-datepicker:after{
+	right: auto;
+	left: 20px;
+}
+body.rtl .dc-downloads-files li img{
+	margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl .dc-doc-registration .dc-filecontent span + em + a,
+body.rtl .dc-doc-downloads .dc-filecontent span + em + a,
+body.rtl .dc-filecontent a{left: 5px;right: auto;}
+body.rtl .dc-subpanel .dc-subpaneltitle:before{
+	left: auto;
+	right: -1px;
+}
+body.rtl .dc-moreservice > .card .dc-panel .dc-deleteinfo-child + .dc-paneltitle{
+	padding-right: 20px;
+	padding-left: 70px;
+}
+body.rtl .dc-titleicon{
+	border-right: 0;
+	margin-right: 0;
+	float: right;
+	margin-left: 20px;
+	padding: 6px 0 6px 20px;
+	border-left: 1px solid #eee;
+}
+body.rtl .dc-moreservice > .card .dc-panel .dc-deleteinfo-child + .dc-paneltitle:after{
+	right: auto;
+	left: 40px;
+}
+body.rtl .dc-subpaneltitlevtwo .dc-btnaction{
+	margin-left: 0;
+	margin-right: 30px;
+}
+body.rtl .dc-deleteinfo-child{
+	right: auto;
+	left: 40px;
+}
+body.rtl .dc-radio input[type=radio] + label:after,
+body.rtl .dc-checkbox input[type=checkbox] + label:after,
+body.rtl .dc-radio input[type=radio] + label:before,
+body.rtl .dc-checkbox input[type=checkbox] + label:before{
+	left: auto;
+	right: 0;
+}
+body.rtl .dc-checkbox input[type=checkbox] + label,
+body.rtl .dc-radio input[type=radio] + label{
+	padding-left: 0;
+	padding-right: 30px;  
+}
+body.rtl .dc-searchvlistvtwo .dc-docpostholder .dc-doclocation{
+	padding-left: 0;
+	padding-right: 30px;  
+	border-left: 0;
+	border-right: 1px solid #eee;
+}
+body.rtl .dc-doclocationvtwo .dc-btnarea .dc-like{
+	margin-left: 0;
+	margin-right: 7px;
+}
+body.rtl .la-searchvlistvtwo .dc-docpostholder .dc-docpostimg{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+body.rtl .dc-featuredtag{
+	right: 0;
+	left: auto;
+	border: 0;
+	border-top: 40px solid var(--secthemecolor);
+	border-left: 40px solid transparent;
+}
+body.rtl .dc-featuredtag i{left: -14px;}
+body.rtl .dc-chatpopup{
+	right: auto;
+	left: 30px;
+}
+body.rtl .dc-chatpopup .dc-chatbox{
+	left: 0;
+	right: auto;
+	border-radius: 10px 10px 10px 0;
+}
+body.rtl .dc-chatpopup .dc-chatbox:before{
+	left: 0;
+	right: auto;
+	border-left: 0;
+    border-right: 15px solid transparent;
+}
+body.rtl .dc-docsingleimg{
+	float: right;
+    margin-right: 0;
+    margin-left: 30px;
+}
+body.rtl .dc-docsingle-content .dc-title{
+	padding-right: 0;
+	padding-left: 100px;
+}
+body.rtl .dc-docsingle-content .dc-title h2 a + i:nth-child(2){
+	margin-left: 0;
+	margin-right: 7px;
+}
+
+body.rtl .dc-docsingle-content .dc-like{
+	right: auto;
+	left: 30px;
+}
+body.rtl .dc-docsingle-content .dc-btnarea .dc-btn + .dc-btn{
+	margin-left: 0;
+	margin-right: 10px; 
+}
+body.rtl .dc-navdocsingletab li:last-child a{border-left: 1px solid #eee;}
+body.rtl .dc-searchvlistvtwo .dc-docpostholder .dc-docpostimg{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+body.rtl .dc-articlesholder .float-left{float: right !important;}
+body.rtl .dc-advancedsearchs:before{
+	left: 40px;
+	right: auto;
+}
+body.rtl .dc-startoption li,
+body.rtl .dc-forumcomments-details .dc-consultation-title,
+body.rtl .dc-searchresult-head .dc-rightarea .dc-select{float: right;}
+body.rtl .dc-startoption li{
+	border-right: 0;
+	border-left: 2px solid #eee;
+}
+body.rtl .dc-startoption li:last-child{border: 0;}
+body.rtl .dc-paneltitle:after{
+	left: 20px;
+	right: auto;
+}
+body.rtl .dc-forumcomments-details > a{
+	margin-left: 16px; 
+	margin-right: 0; 
+}
+body.rtl .dc-forumcomments-details > a .ti-angle-left:before {content: "\e649"; }
+body.rtl .dc-formnewsletter fieldset .form-group .form-control{padding: 10px 17px 10px 65px;}
+body.rtl .dc-errorcontent .dc-btnarea .dc-btn{
+	float: right;
+	margin-left: 10px;
+	margin-right: 0; 
+}
+body.rtl .dc-downloads-listing li{
+	padding-left: 0;
+	padding-right: 60px; 
+}
+body.rtl .dc-downloads-listing li:before,
+body.rtl .dc-specializationslist li:before{
+	right: 0;
+	left: auto;
+}
+body.rtl .dc-specializationslist li{padding-left: 0;padding-right: 12px;  }
+body.rtl .dc-downloads-listing li{float: right;}
+body.rtl .dc-searchresult-head .dc-rightarea .dc-select + .dc-select{margin-right: 10px; margin-left: 0; }
+body.rtl .dc-articles-list .dc-articlecontent{
+	border-left: 1px solid #eee;
+	border-right: 0; 
+}
+body.rtl .dc-reason-holder fieldset .form-group-half{float: right;}
+body.rtl .dc-reason-holder fieldset .form-group-half:nth-child(even){
+	margin-left: 0;
+	margin-right: 1%; 
+}
+body.rtl .dc-visitingdoctor .dc-appointmentpanelcontent,
+body.rtl .dc-taxesfees,
+body.rtl .dc-visitingdoctor .dc-paneltitle{text-align: right;}
+body.rtl .dc-taxesfees li em{float: left;}
+body.rtl .dc-appointment-calendar{
+	float: right;
+	padding-left: 15px;
+	padding-right: 0; 
+}
+body.rtl .dc-downloads-listing li h3 span{float: none;}
+body.rtl #la-addfeedbackpopup .dc-tabbtns .dc-radio + .dc-radio{
+	margin-left: 0;
+	margin-right: 10px;
+}
+/* RTL Responsive */
+@media (max-width: 1280px){
+	body.rtl .dc-usernav {
+		right: auto;
+		left: 0;
+	}
+	body.rtl .dc-doccareimg figcaption{left: 0;}
+	body.rtl .dc-appbgimg figure img{margin: 0;}
+}
+@media (max-width: 1199px){body.rtl .dc-btnapps li + li{margin-right: 0;}}
+@media (max-width: 991px){
+	body.rtl .dc-expandedu li > em{float: left;}
+	body.rtl .dc-appointment-calendar{padding: 0;}
+	body.rtl .dc-reason-holder fieldset .form-group-half:nth-child(even){margin-right: 0;}
+	body.rtl .dc-articles-list .dc-article .dc-articleimg,
+	body.rtl .dc-articles-list .dc-article .dc-articleimg > img{border-radius: 4px 4px 0 0;}
+	body.rtl .dc-articles-list .dc-articlecontent,
+	body.rtl .dc-borderlt-0 .dc-articlecontent{border-right: 1px solid #eee;}
+	body.rtl .dc-docsingle-holder #feedback .dc-consultation-title span{float: left;}
+	body.rtl .dc-searchresult-head .dc-rightarea form{float: right;}
+	body.rtl .dc-innerbannerform,
+	body.rtl .dc-innerbannerform fieldset{padding-left: 0;}
+	body.rtl .dc-innerbannerform .dc-btnarea{float: right;}
+	body.rtl .dc-dropdowarrow{
+		right: auto;
+		left: 15px;
+	}
+	body.rtl .dc-dropdowarrow > i:before{ content: '\e875';}
+	body.rtl .dc-open > .dc-dropdowarrow > i:before{content: '\e874';}
+	body.rtl .dc-bannercotent-craousel{margin: 0;}
+	body.rtl .dc-title-socialicons li:first-child{padding-right: 0;}
+}
+@media (max-width: 767px){
+	body.rtl .dc-expandedu li > em{float: none;}
+	body.rtl .dc-form-advancedsearch fieldset{padding: 0;}
+	body.rtl .dc-forumform fieldset{padding: 0;}
+}
+@media (max-width: 640px){
+	body.rtl .la-shareicon .dc-simplesocialicons{
+		right: auto;
+		left: 0;
+	}
+}
+@media (max-width: 568px){
+	body.rtl .dc-navigationarea .dc-loginarea {margin: 0;}
+	body.rtl .dc-appicons li + li{margin-right: 0;}
+}
+@media (max-width: 480px){
+	body.rtl .dc-titleicon{
+		margin-left: 10px;
+		padding-left: 10px; 
+	}
+	body.rtl .dc-docsingle-content .dc-btnarea .dc-btn + .dc-btn{margin-right: 0;}
+	body.rtl .dc-pl-10{padding-right: 0; }
+	body.rtl .dc-joinsteps li{
+		float: right;
+	}
+	body.rtl .dc-joinsteps li + li:after{right: -15px;}
+	body.rtl .dc-topbar .dc-rightarea .dc-simplesocialicons{float: right;}
+	body.rtl .dc-bringcarecontent .dc-btnarea .dc-btn + .dc-btn,
+	body.rtl .dc-bannercontent .dc-btnarea .dc-btn + .dc-btn{margin-right: 0;}
+	body.rtl .dc-loginformhold{
+		right: auto;
+		left: -166px;
+	}
+}
+@media (max-width: 479px){body.rtl #dc-docpostslider .owl-stage-outer{padding-right: 0; } }

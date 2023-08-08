@@ -1,0 +1,653 @@
+.nsearch-main {
+    padding: 0;
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+/* form */
+.nsearch-main .nsearch-filter-bar .form-group {
+    width: 20% !important;
+
+}
+
+.nsearch-main .dc-innerbanner-holder {
+    border-radius: 5px;
+    min-height: 90px;
+    position: relative;
+    box-shadow: 0 0 10px 0 rgba(122, 122, 122, 0.1);
+    margin-top: 25px;
+    padding-top: 20px;
+}
+
+.nsearch-main .form-group.form-group-search-bar {
+    width: 25% !important;
+    position: relative;
+}
+
+.nsearch-main .form-group.n-submit {
+    width: 15% !important;
+}
+
+.n-submit .dc-btn {
+    max-width: 100%;
+    width: 100% !important;
+    min-width: auto !important;
+}
+
+.nsearch-main input,
+.nsearch-main select {
+    border: 1px solid #F2F2F2;
+    border-radius: 5px;
+    font-size: 12px;
+    height: 46px;
+}
+
+.nsearch-main .dc-select:after {
+    content: url('/uploads/resources/img/arrow_down2.svg');
+    opacity: 0.5;
+    margin-top: 4px;
+}
+
+.nsearch-main .form-group-search-bar:after {
+    top: 0;
+    right: 15px;
+    z-index: 2;
+    display: block;
+    font-size: 12px;
+    position: absolute;
+    text-align: center;
+    line-height: 40px;
+    pointer-events: none;
+    content: url('/uploads/resources/img/search_icon.svg');
+    opacity: 0.5;
+    margin-top: 10px;
+}
+
+.sbmt-btn {
+    background-color: #D9EEFD !important;
+    border: 1px solid #D9EEFD !important;
+    color: #3FABF3;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.sbmt-btn:hover {
+    color: #3FABF3 !important;
+}
+
+/* end form */
+
+.nsearch-main .dc-main-section {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+   /* background-color: #F2F2F2; */
+}
+
+.nsearch-main .dc-innerbannerform {
+    padding: 0;
+}
+
+.nsearch-main .dc-innerbannerform fieldset {
+    padding: 0;
+}
+
+
+.nsearch-top-bar {
+    background-color: #3fabf3;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    padding: 40px 0;
+    position: relative;
+    color: #FFFFFF;
+}
+
+.nsearch-top-bar h2 {
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    margin-top: 15px;
+}
+
+.nsearch-top-bar a {
+    color: #F2F2F2;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 0 10px;
+    vertical-align: middle;
+    font-weight: 300;
+}
+
+.nsearch-top-bar a img {
+    margin-top: -3px;
+}
+
+.nsearch-breadcrumbs {
+    opacity: 0.7;
+    margin-left: -10px;
+}
+
+.nsearch-result {
+    padding-top: 70px;
+    float: left;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+}
+
+.nsearch-grid {
+    display: flex;
+    width: 1280px;
+    flex-flow: row wrap;
+    justify-content: left;
+    padding: 0 !important;
+    margin: 0 -10px !important;
+    overflow: hidden;
+    position: relative;
+}
+
+.nsearch-grid .dc-docpostholder {
+    background-color: #FFFFFF;
+    width: 300px;
+    margin: 10px 9px !important;
+    position: relative;
+}
+
+.nsearch-grid .dc-docpostholder {
+    box-shadow: 0 0 10px 0 rgba(122, 122, 122, 0.1);
+}
+
+.nsearch-grid .dc-docpostcontent {
+    border: 0 !important;
+    padding: 0 !important;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.nsearch-grid .dc-searchvtwo {
+    padding: 0;
+    max-width: 100%;
+}
+
+.nsearch-grid .dc-doclocation {
+    padding: 0 20px 10px 20px !important;
+    border: 0;
+    min-width: 100%;
+}
+
+.nsearch-grid .dc-like {
+    display: none;
+}
+
+.nsearch-grid .dc-docpostimg {
+    border-radius: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    position: relative;
+}
+
+.n-available,
+.n-platform {
+    position: absolute;
+    z-index: 100;
+    font-size: 9px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.n-platform span {
+    background-color: #FFFFFF;
+    display: inline-block;
+    padding: 0 30px 0 10px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    line-height: 22px;
+}
+
+.n-available span {
+    background-color: #1BC559;
+    display: inline-block;
+    padding: 0 10px 0 30px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.n-available {
+    top: 10px;
+    left: -20px;
+}
+
+.n-platform {
+    bottom: 0;
+    right: -20px;
+}
+
+.nsearch-grid .dc-docpostimg img {
+    width: 100%;
+    border-radius: 0 !important;
+}
+
+.nsearch-grid .dc-docpostholder .dc-title {
+    padding: 20px 20px 0 20px;
+}
+
+.nsearch-grid .dc-doclocation {
+    border: 0 !important;
+}
+
+.ndoctor-name a {
+    color: #000000 !important;
+    font-size: 16px;
+    padding-right: 10px;
+    max-width: 100% !important;
+}
+
+.nsearch-grid .dc-docinfo .dc-available {
+    font-size: 11px;
+    font-weight: 300;
+    color: #808080;
+    padding: 10px 0;
+    margin: 0 !important;
+    border-bottom: 1px dotted #F2F2F2;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.dc-available.nsearch-specialty {
+    border-bottom:0 !important;
+}
+.nsearch-grid .dc-docinfo .dc-available i {
+    padding-right: 5px;
+}
+
+.nsearch-grid .dc-docinfo .dc-available strong {
+    font-size: 10px;
+    color: #333;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.nsearch-grid .dc-title {
+    width: 100% !important;
+}
+
+.nsearch-grid .dc-tags {
+    width: 100%;
+    padding: 0;
+    font-size: 11px;
+    margin-top: 10px;   
+}
+.nsearch-grid .dc-dayon {
+    display: inline;
+    font-size: 11px !important;
+    color: #ff5851 !important;
+}
+.nsearch-more{
+    background-color:#FFFFFF !important;
+    color:#3fabf3 !important;
+}
+.nsearch-more i{
+    font-size:7px !important;
+}
+
+.nsearch-grid .dc-tags ul li {
+    padding: 0;
+    margin-bottom: 8px;
+}
+
+.nsearch-grid .dc-docinfo li+li {
+    margin-top: 0;
+}
+
+.nsearch-grid .dc-tags ul li a {
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 20px;
+    color: #808080;
+    font-weight: 300;
+    line-height: 17px;
+    margin-right: 3px;
+}
+
+.nsearch-grid .dc-tags ul li a span {
+    color: #00b5fa;
+}
+
+.nsearch-grid .dc-tags ul li a:hover,
+.nsearch-grid .dc-tags ul li a:hover span {
+    color: #FFFFFF;
+}
+
+.nsearch-grid .dc-btnarea {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -3px;
+    margin-right: -3px;
+
+}
+
+.nsearch-grid .dc-btnarea .dc-btn {
+    width: 100%;
+    max-width: 100%;
+    font-size: 12px;
+    text-transform: uppercase;
+    min-width: auto;
+    margin: 0 3px;
+}
+
+.nsearch-main .nsearch-result-top {
+    display: flex;
+    padding: 0 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nsearch-sortby .dc-select select {
+    margin: 0;
+    border-radius: 5px !important;
+    background-color: #E7E7E7;
+}
+
+.nsearch-matches span {
+    color: #00b5fa;
+}
+
+.nsearch-main .dc-searchresult-list .dc-docpostholder .dc-doclocation {
+    min-width: 100%;
+}
+
+
+.nuser-profile-info {
+    margin-top: -80px !important;
+}
+
+.nuser-top-controls {
+    position: absolute;
+    right: 0;
+    top: -50px;
+}
+
+.nuser-profile .nsearch-top-bar h2 {
+    margin-top: 25px;
+}
+
+.nuser-profile-main {
+    padding: 150px 0 100px;
+}
+
+.nuser-profile-white-bg {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(122, 122, 122, 0.1);
+}
+
+.nuser-profile-main .dc-docsingle-header {
+    padding: 40px;
+}
+
+.nuser-profile-main .dc-docsingle-holder {
+    padding: 40px;
+}
+
+.nuser-profile-main .dc-docsingleimg {
+    width: 320px;
+    height: 320px;
+    max-width: 320px;
+    max-height: 320px;
+    border: 0;
+    margin-top: -120px;
+}
+
+.nuser-profile-main .dc-docsingleimg img {
+    padding: 0;
+}
+
+.nuser-profile-main .dc-contentdoctab {
+    padding: 0;
+    border: 0;
+}
+
+.nuser-profile-main .dc-shareprofile ul {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.nuser-profile-main .dc-docinfo li em {
+    font-size: 14px !important;
+    padding-left: 20px;
+    display: inline-block;
+    color: #333;
+    font-weight: 333;
+}
+
+.nuser-profile-main .dc-title h2 a {
+    color: #3d4461 !important;
+    font-weight: 400;
+    margin-right: 10px;
+}
+
+.nuser-profile-main .dc-infotitle h2 {
+    color: #3d4461;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nuser-profile-main .dc-aboutinfo {
+    border-bottom: 1px dotted #F2F2F2;
+    padding: 20px 0;
+    margin-bottom: 0;
+}
+
+.nuser-profile-main .dc-aboutdoc {
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.nuser-profile-main .profilerightsidetitle i {
+    width: 20px;
+}
+
+.nuser-service-item {
+    background-color: #F2F2F2;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 5px 10px;
+    margin: 3px;
+
+}
+
+.nuser-service-item .priceimtes {
+    color: #00b5fa;
+}
+
+.nuser-profile-main .dc-aboutinfo .dc-infotitle h3 {
+    color: #3d4461;
+    font-size: 14px !important;
+    border-bottom: 0;
+    padding-bottom: 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.nuser-profile-main .dc-aboutinfo .dc-infotitle p {
+    color: #333 !important;
+    font-family: Poppins, sans-serif !important;
+    font-weight: 300;
+}
+
+.nuser-profile-main .dc-description p {
+    color: #333;
+    font-family: Poppins, sans-serif !important;
+    font-weight: 300;
+}
+
+.nuser-profile-main .dc-btn {
+    text-transform: uppercase;
+    font-weight: 12px !important;
+}
+
+.nuser-profile-main .dc-like {
+    padding: 0;
+    font-size: 22px;
+    background: #fff;
+    border-radius: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nuser-profile-main .dc-like i {
+    width: auto !important;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #E7E7E7;
+    line-height: 32px;
+    padding: 0 20px;
+    border: 1px solid #E7E7E7;
+
+}
+
+.dc-like i {
+    color: #888;
+}
+
+.nuser-profile-main .dc-emptydetails {
+    height: 480px;
+}
+
+.nuser-profile-main .dc-like i span {
+    font-family: Poppins, sans-serif !important;
+    display: inline-block;
+    padding-left: 10px;
+    color: #333;
+    font-weight: 300;
+    font-size: 12px !important;
+}
+
+@media (min-width:1280px) {
+
+    .nsearch-result .container,
+    .nsearch-main .nsearch-top-bar .container {
+        max-width: 1280px;
+    }
+
+    .nsearch-profile-page .nsearch-top-bar .container {
+        max-width: 1140px;
+    }
+}
+
+@media (max-width:1024px) {
+    .nsearch-grid {
+        width: 100%;
+    }
+}
+
+@media (max-width:768px) {
+    .nsearch-grid {
+        width: 100%;
+        justify-content: space-between;
+        margin: 0;
+    }
+
+    .nsearch-grid .dc-docpostholder {
+        width: 45%;
+    }
+
+    .dc-docsingle-content {
+        width: 100%;
+    }
+
+    .nuser-profile-main .dc-title {
+        padding: 20px 0;
+    }
+
+    .nuser-profile-main .dc-stars {
+        margin-left: 0;
+    }
+
+    .nuser-profile-main .dc-docinfo li em {
+        padding-left: 0 !important;
+        margin-top: 5px;
+    }
+
+}
+
+@media (max-width:576px) {
+
+    .nsearch-grid {
+        margin: 0 !important;
+    }
+
+    .nsearch-grid .dc-docpostholder {
+        width: 100%;
+    }
+
+    .nsearch-grid .dc-docpostholder {
+        padding: 0 !important;
+    }
+
+    .nsearch-main .dc-innerbanner-holder {
+        min-height: auto;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .nsearch-main .nsearch-filter-bar .form-group {
+        width: 100% !important;
+        display: block;
+    }
+
+    .nsearch-result {
+        padding-top: 300px;
+    }
+
+    .nsearch-main input,
+    .nsearch-main select {
+        margin-bottom: 0;
+    }
+
+    .nuser-profile-main .dc-docsingle-header,
+    .nuser-profile-main .dc-docsingle-holder {
+        padding: 20px !important;
+    }
+
+    .nuser-profile-main .dc-docsingleimg {
+        margin-top: auto !important;
+        padding-top: 10px;
+        width: 100% !important;
+        height: 100% !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
+    }
+
+    .nuser-profile-main {
+        padding-top: 100px !important;
+    }
+
+    .nuser-profile-info {
+        margin-top: 0 !important;
+    }
+    .nuser-profile-main .n-available{
+        top:20px;
+    }
+}
+
+.footerareasearch h1 span {
+    color: #00b5fa;
+}

@@ -1,0 +1,1 @@
+{!! clean($ad_content) !!}
